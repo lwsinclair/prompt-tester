@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rt96-hub-prompt-tester-badge.png)](https://mseep.ai/app/rt96-hub-prompt-tester)
+
 # MCP Prompt Tester
 
 A simple MCP server that allows agents to test LLM prompts with different providers.
